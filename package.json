@@ -1,0 +1,20 @@
+{
+  "name": "ejerciciossantiagobetancur",
+  "version": "1.0.0",
+  "description": "Estos son los ejercicios desde el 20 al 25",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Betancur",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333"
+  }
+}
